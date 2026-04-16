@@ -1,4 +1,4 @@
-# Biblical_Chronology
+# [Biblical Chronology](https://cyblight.github.io/Biblical_Chronology/)
 
 Современный одностраничный сайт с интерактивной схемой библейской хронологии.
 
@@ -11,7 +11,7 @@
 
 ## Запуск
 
-1. Откройте файл `index.html` в браузере.
+1. Перейдите по ссылке нажав на этот текст: [Biblical Chronology](https://cyblight.github.io/Biblical_Chronology/)
 
 ## Файлы
 
